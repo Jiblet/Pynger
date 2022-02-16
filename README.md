@@ -10,4 +10,4 @@ Single argument for the delay between pings. Default 60 seconds.
 
 ### Example call:
 
-python pynger.py 60
+python3 pynger.py 60
