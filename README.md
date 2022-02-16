@@ -1,4 +1,4 @@
-# PythonPinger
+# PythonPinger - Pynger
 
 Simply pings 8.8.8.8 and writes the datetime and average response time to results.csv
 
